@@ -1,2 +1,2 @@
 # FCC-Projects
-My FreeCodeCamp Projects
+My FreeCodeCamp HTML and CSS Projects
